@@ -1,5 +1,6 @@
 @echo off
+cd Desktop
 echo You ready? Here we go!
 timeout 10
-start https://www.youtube.com/watch?v=dQw4w9WgXcQ
-start virus.exe
+start rickroll.mp4
+start rickroll.exe

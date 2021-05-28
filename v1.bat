@@ -1,5 +1,6 @@
 @echo off
-cd Desktop
+cd C:\
+mkdir totallynotarickroll
 echo You ready? Here we go!
 start rickrollprepare.html
 timeout 5

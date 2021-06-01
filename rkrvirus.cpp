@@ -6,3 +6,4 @@ int main()
     cout << "Starting Batch File...\n";
     system("pause>0");
 }
+//file is ready

@@ -8,7 +8,7 @@ start stickroll.mp4
 timeout 15 > nul
 start rickroll.mp4
 timeout 7 > nul
-start rickroll.exe
+start binrick.exe
 exit
 
 REM 

@@ -5,9 +5,9 @@ echo You ready? Here we go!
 start rickrollprepare.html
 timeout 5 > nul
 start stickroll.mp4
-timeout 9 > nul
+timeout 15 > nul
 start rickroll.mp4
-timeout 16 > nul
+timeout 7 > nul
 start rickroll.exe
 exit
 

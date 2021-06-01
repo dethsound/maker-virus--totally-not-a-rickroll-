@@ -1,6 +1,7 @@
 @echo off
 echo The installation of your RICKROLL >:) completed successfully
 exit
+
 REM
 Copyright (C) 2021  Eric Zarutsky
 

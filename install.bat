@@ -1,9 +1,3 @@
-@echo off
-echo installing...
-copy 
-exit
-
-REM
 Copyright (C) 2021  Eric Zarutsky
 
 This program is free software: you can redistribute it and/or modify

@@ -1,17 +1,14 @@
 @echo off
 echo Copyright (C) 2021  Eric Zarutsky
-cd C:\
-mkdir totallynotarickroll
+cd "C:\Program Files (x86)\rickrollvirus"
 echo You ready? Here we go!
 start rickrollprepare.html
-timeout 5
+timeout 5 > nul
 start stickroll.mp4
-timeout 9
-start stickroll.mp4
-timeout 16
+timeout 9 > nul
+start rickroll.mp4
+timeout 16 > nul
 start rickroll.exe
-echo heheboi ok bye
-timeout 3
 exit
 REM 
 This program is free software: you can redistribute it and/or modify

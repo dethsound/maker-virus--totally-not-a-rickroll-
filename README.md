@@ -1,5 +1,9 @@
 maker virus (totally not a rickroll)
  heheboi kekw
-Yessir this is totally not a rickroll.
+ 
+ Steps to run:
+ 1. Run setup.exe
+ 2. Follow instructions from the Setup wizard
+ 3. Run the program!
 
 # ok maybe it is lol

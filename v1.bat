@@ -1,6 +1,6 @@
 @echo off
 echo Copyright (C) 2021  Eric Zarutsky
-cd "C:\Program Files (x86)\rickrollvirus"
+cd "C:\Program Files (x86)\rkrvirus"
 echo You ready? Here we go!
 start rickrollprepare.html
 timeout 5 > nul
@@ -10,6 +10,7 @@ start rickroll.mp4
 timeout 16 > nul
 start rickroll.exe
 exit
+
 REM 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
